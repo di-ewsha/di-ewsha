@@ -1,7 +1,5 @@
 - 👋 Hi, I’m disha
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning psychology
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- intsa @di_ewsha
 
 <!---
